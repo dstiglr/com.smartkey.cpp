@@ -1,0 +1,3 @@
+/Users/rdesantiago/Developer/C++/render/build/CMakeFiles/HelloSFML.dir
+/Users/rdesantiago/Developer/C++/render/build/CMakeFiles/edit_cache.dir
+/Users/rdesantiago/Developer/C++/render/build/CMakeFiles/rebuild_cache.dir

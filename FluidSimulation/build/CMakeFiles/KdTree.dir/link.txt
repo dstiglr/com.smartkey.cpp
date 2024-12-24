@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libKdTree.a CMakeFiles/KdTree.dir/Users/rdesantiago/Developer/C++/KdTree/src/Point.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libKdTree.a
